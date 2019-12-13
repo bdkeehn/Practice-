@@ -1,9 +1,18 @@
 body{
-    background-color: coral;
+    background-image: url(../assets/images/sunset.jpg);
+    background-size: cover;
 }
 h1{
      font-family: 'Raleway', sans-serif;
     text-align: center;
+}
+.para{
+    background-color:rgb(243, 171, 145);
+    float: left;
+    border: solid;
+}
+#welcome{
+    background-color: rgb(255, 228, 196);
 }
 
 .flow-text{
@@ -43,6 +52,8 @@ h1{
 .scroll{
     border: 1px dotted black;
     overflow-y: scroll;
+    height:500px;
+    width: 617px;
 }
 
 
