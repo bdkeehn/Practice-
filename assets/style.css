@@ -1,0 +1,49 @@
+body{
+    background-color: coral;
+}
+h1{
+     font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.flow-text{
+    font-family: 'Raleway', sans-serif;
+   
+
+}
+#table{
+    margin-right: 20px;
+
+
+}
+.fa-facebook { 
+    background: rgb(47, 79, 148);
+    color: white;
+} 
+.fa-twitter{
+    background: #55ACEE;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;}
+
+    .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+
+#page-footer{
+    bottom: 0px;
+    width:100%;
+}
+.thailand{
+    overflow: scroll;
+}
+.scroll{
+    border: 1px dotted black;
+    overflow-y: scroll;
+}
+
+
+
